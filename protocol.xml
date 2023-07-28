@@ -335,6 +335,8 @@ DATE		VERSION		AUTHOR			COMMENTS
 		</Param>
 	</Params>
 	<QActions>
+		<QAction id="1" name="EmptyQAction" encoding="csharp" options="precompile">
+		</QAction>
 	</QActions>
 	<Groups>
 		<Group id="1">

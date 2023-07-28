@@ -41,6 +41,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QAction_Helper", "QAction_Helper\QAction_Helper.csproj", "{96DBDB85-C52F-41B7-A528-E4A59131DACC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QAction_1", "QAction_1\QAction_1.csproj", "{3BECE093-5782-4514-8BE9-D084BE9FEA9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{96DBDB85-C52F-41B7-A528-E4A59131DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96DBDB85-C52F-41B7-A528-E4A59131DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96DBDB85-C52F-41B7-A528-E4A59131DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BECE093-5782-4514-8BE9-D084BE9FEA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BECE093-5782-4514-8BE9-D084BE9FEA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BECE093-5782-4514-8BE9-D084BE9FEA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BECE093-5782-4514-8BE9-D084BE9FEA9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DFF6C1C5-303D-486C-9102-60F0F4BEFB92} = {8653270F-2B6C-4BEB-8FC9-AF65312F563C}
 		{96DBDB85-C52F-41B7-A528-E4A59131DACC} = {8653270F-2B6C-4BEB-8FC9-AF65312F563C}
+		{3BECE093-5782-4514-8BE9-D084BE9FEA9C} = {05F4D277-9167-4977-A6A8-C6CF30BB4A7A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7E311042-3B98-4BEB-9117-068CFF569237}
