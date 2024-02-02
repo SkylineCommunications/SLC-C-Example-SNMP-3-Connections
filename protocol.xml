@@ -2,7 +2,7 @@
 <!--
 
 ****************************************************************************
-*  Copyright (c) 2023,  Skyline Communications NV  All Rights Reserved.    *
+*  Copyright (c) 2024,  Skyline Communications NV  All Rights Reserved.    *
 ****************************************************************************
 
 By using this driver, you expressly agree with the usage terms and
@@ -53,15 +53,15 @@ DATE		VERSION		AUTHOR			COMMENTS
 
 -->
 <Protocol xmlns="http://www.skyline.be/protocol">
-	<Name>SLC SDF SNMP - 3 Connections</Name>
-	<Description>Exercise on working with SNMP Stand Alone Parameters</Description>
+	<Name>Skyline Example SNMP 3 Connections</Name>
+	<Description>Exercise on working with 3 SNMP Connections</Description>
 	<Version>1.0.0.1</Version>
-	<IntegrationID>DMS-DRV-XXXX</IntegrationID>
+	<IntegrationID>DMS-DRV-9040</IntegrationID>
 	<Provider>Skyline Communications</Provider>
-	<Vendor>Skyline Communications</Vendor>
-	<VendorOID>1.3.6.1.4.1.8813.2.48</VendorOID>
-	<DeviceOID>999</DeviceOID>
-	<ElementType>Training Example</ElementType>
+	<Vendor>Skyline Example</Vendor>
+	<VendorOID>1.3.6.1.4.1.8813.2.1218</VendorOID>
+	<DeviceOID>17</DeviceOID>
+	<ElementType>Example</ElementType>
 	<Type relativeTimers="true" advanced="snmpV2:SNMP Connection - 2;snmpV3:SNMP Connection - 3">snmp</Type>
 	<!-- SuppressValidator 1.22.6 Example, no webpage. -->
 	<Display defaultPage="General" pageOrder="General" wideColumnPages="" />
